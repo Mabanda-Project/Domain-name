@@ -16,7 +16,7 @@
 | `inside.ac` | `--` | 
 | `xeg.io` | `--` | 
 | `bookencore.com` | `Used` | 
-| `p10.io` | `--` | 
+| `p10.io` | `Used` | 
 | `hackertalks.io` | `--` | 
 | `crappy.co` | `--` | 
 | `toy.sh` | `--` | 
@@ -30,6 +30,5 @@
 | `ourfidgetspinner.com` | `--` | 
 | `sardinavie.com` | `--` | 
 | `broodee.com` | `--` | 
-| `ourfidgetspinner.com` | `--` | 
 
 Interested in any of these domain names? let's discuss. aris[at]tutorial45.com
